@@ -1,2 +1,2 @@
 # Google Glass
- Exercício do site Curso Em Video no curso de HTML5
+ HTML5 Course project by __Curso Em Video__
